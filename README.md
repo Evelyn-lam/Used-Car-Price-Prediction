@@ -1,6 +1,6 @@
 # Used-Car-Price-Prediction
  The objective of this project is to identify the price of used cars based on 
- dataset from kaggle- https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+ dataset from kaggle: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
  
  
  
