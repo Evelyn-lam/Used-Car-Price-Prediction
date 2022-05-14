@@ -4,7 +4,7 @@
  
  
  
- Car depreciation is a simple idea in theory. It’s all about your car’s market value.
+ Car depreciation is a simple idea in theory. It’s all about the car’s market value.
  There are many factors which have an influence on the selling price of a car. 
  Further there are a lot of additional costs depending on the model, the millage, the fuel consumption etc. 
  Usually the older the car is, the less it will be worth. 
